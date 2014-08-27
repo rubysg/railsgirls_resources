@@ -33,6 +33,7 @@
 
 ####Contact participants to update their RSVPs
 * Writeup
+
 >Hello there!
 >
 >The Rails Girls meetup is happening this [DAY], [DATE], [TIME] at [VENUE]. You can see more details here: [URL]
