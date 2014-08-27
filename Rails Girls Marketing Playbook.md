@@ -1,4 +1,4 @@
-##Once event details are confirmed, post details on these sites
+##When event details are confirmed, post details on these sites
 
 ####Meetup
 * [Singapore Ruby Group](http://www.meetup.com/Singapore-Ruby-Group/) - Ping Elisha at elisha@learnemy.com for access
@@ -15,7 +15,7 @@
 * [Singapore Geek Girls](https://www.facebook.com/SGGeekGirls) - Or ping Elisha at elisha@learnemy.com 
 
 ####Newsletters
-- Newsletters go out on Monday of the week the event is happening
+-Newsletters go out on Monday of the week the event is happening
 * [Singapore Startup Digest](https://www.startupdigest.com/digests/singapore) - Sign up required
 * [The List](http://thelist.sg/add-an-event/)
 
@@ -24,8 +24,15 @@
 * [Tech in Asia](http://www.techinasia.com/tech-startup-events/#form) - Or ping Elisha at elisha@learnemy.com 
 
 
-##Two weeks before event, confirm coaches
+##Two weeks before event
 
-##One week before event, contact participants to update their RSVPs and remind coaches to come.
+####Confirm coaches
+* Make sure at least one coach to 4 participants
+
+
+##One week before event
+
+####Contact participants to update their RSVPs
+####Remind coaches to come
 
 
