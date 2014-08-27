@@ -33,17 +33,17 @@
 
 ####Contact participants to update their RSVPs
 * Writeup
-> Hello there!
-> 
-> The Rails Girls meetup is happening this [DAY], [DATE], [TIME] at [VENUE]. You can see more details here: [URL]
-> 
-> We have some people in the waiting list and we'll love to accommodate as many people as we can.
-> 
-> Could you do me a favour to update your RVSP if you're not coming anymore? That'll free up some seats for people in the waiting list.
-> 
-> Thank you and see you soon! :)
-> 
-> [NAME]
+>Hello there!
+>
+>The Rails Girls meetup is happening this [DAY], [DATE], [TIME] at [VENUE]. You can see more details here: [URL]
+>
+>We have some people in the waiting list and we'll love to accommodate as many people as we can.
+>
+>Could you do me a favour to update your RVSP if you're not coming anymore? That'll free up some seats for people in the waiting list.
+>
+>Thank you and see you soon! :)
+>
+>[NAME]
 
 ####Remind coaches to come
 * Let coaches know how many people want to install rails, follow RG guides or work on their own projects.
