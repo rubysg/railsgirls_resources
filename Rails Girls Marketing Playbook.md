@@ -1,4 +1,4 @@
-##When event details are confirmed, post details on these sites
+##Once event details are confirmed, post details on these sites
 
 ####Meetup
 * [Singapore Ruby Group](http://www.meetup.com/Singapore-Ruby-Group/) - Ping Elisha at elisha@learnemy.com for access
