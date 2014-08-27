@@ -1,6 +1,6 @@
 ##Facebook Groups
-*[Rails Girls Singapore](https://www.facebook.com/groups/railsgirlssingapore/)
-*[Singapore Ruby Brigade](https://www.facebook.com/groups/singaporerubybrigade/)
+* [Rails Girls Singapore](https://www.facebook.com/groups/railsgirlssingapore/)
+* [Singapore Ruby Brigade](https://www.facebook.com/groups/singaporerubybrigade/)
 *[Singapore Female Founders](https://www.facebook.com/groups/femalefounders/)
 *[Singapore Startup Club](https://www.facebook.com/groups/Singaporestartupclub/)
 *[OpenCoffee Club](https://www.facebook.com/groups/OpenCoffeeClubSG/)
