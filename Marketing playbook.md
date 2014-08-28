@@ -50,3 +50,11 @@
 * Let coaches know how many people want to install rails, follow RG guides or work on their own projects.
 
 
+##During event
+* Collect participants' email addresses
+
+
+##After event
+* Add participants into [Rails Girls Singapore](https://www.facebook.com/groups/railsgirlssingapore/)
+* Highfive coaches 
+
