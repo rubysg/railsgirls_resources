@@ -10,4 +10,5 @@ Elisha Tan  <elisha@learnemy.com>,
 Lakshan Perera  <perera.lakshan@gmail.com>,  
 Sofia Tania <stania@thoughtworks.com>,  
 Sherwyn Goh <Sherwyn@rocketmail.com>,  
-Tan Tze Hon <thtan@thoughtworks.com>
+Tan Tze Hon <thtan@thoughtworks.com>,
+Jaryl Sim <jaryl@tinkerbox.com.sg>
